@@ -28,10 +28,11 @@ Base pública disponibilizada na plataforma Kaggle.
 
 ## Principais Insights
 
-* A região West apresentou o maior faturamento.
-* O canal In-Store liderou as vendas.
-* A categoria Men's Street Footwear gerou a maior receita.
-* Foram identificados padrões sazonais nas vendas ao longo do período analisado.
+- Receita total de US$ 8,63 milhões no período analisado.
+- A região West concentrou o maior faturamento da operação.
+- O canal In-Store representou a principal fonte de receita.
+- Men's Street Footwear foi a categoria de maior desempenho.
+- Mais de 242 mil unidades foram comercializadas.
 
 ## Autor
 
