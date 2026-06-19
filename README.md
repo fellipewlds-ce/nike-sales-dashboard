@@ -43,7 +43,7 @@ Analista de Dados Júnior | Power BI | SQL | Python | ETL
 📍 Fortaleza - CE
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/seu-link
+www.linkedin.com/in/fellipewlds
 
 🔗 GitHub:
 https://github.com/fellipewlds-ce
