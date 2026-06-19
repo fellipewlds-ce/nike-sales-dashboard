@@ -36,6 +36,14 @@ Base pública disponibilizada na plataforma Kaggle.
 
 ## Autor
 
-Fellipe Wildson
+**Fellipe Wildson**
 
-Analista de Dados Júnior | Power BI | SQL | Python | ETL | BI
+Analista de Dados Júnior | Power BI | SQL | Python | ETL
+
+📍 Fortaleza - CE
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/seu-link
+
+🔗 GitHub:
+https://github.com/fellipewlds-ce
