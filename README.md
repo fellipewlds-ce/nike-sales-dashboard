@@ -1,5 +1,5 @@
 # Nike Sales Dashboard
-
+![Dashboard Nike](Captura%20de%20tela%202026-06-18%20140019.png)
 ## Objetivo
 
 Desenvolver um dashboard interativo para análise de desempenho de vendas da Nike utilizando Power BI, permitindo a visualização de indicadores estratégicos e apoio à tomada de decisão.
